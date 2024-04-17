@@ -15,3 +15,18 @@ Console.WriteLine(tr);
 
 Console.WriteLine(text);
 Console.WriteLine(vall);
+
+
+int a = 5;
+int bb = 10;
+
+if (a>bb) {
+    Console.WriteLine(false);
+}
+else {
+    Console.WriteLine(true);
+}
+
+
+
+
